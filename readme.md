@@ -34,21 +34,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Overview</a>
+      <a href="#overview">Home page</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#key-components">About us</a>
         </li>
         <li>
-          <a href="#technology">Technology</a>
+          <a href="#technology">Toys</a>
         </li>
       </ol>
     </li>
     <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
+      <a href="#rule,-practices-and-principles">Digital games</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#resources">contacts</a>
     </li>
   </ol>
 </details>
@@ -62,10 +62,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project is a Nintendo-themed website, designed to showcase Nintendo's rich history, iconic products, and a vibrant range of toys and gaming merchandise
+- Provide an immersive platform for Nintendo fans to explore and learn about the brand, its history, and its products.
+- Home Page Carousel:About Us Section:Toy Section:Contact Page:Navigation Menu:
+- HTML:CSS:Bootstrap:Responsive Design:
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -78,7 +78,6 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -119,4 +118,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Nintendo | Enable users to reach out through the contact page for inquiries, feedback, or support. | https://github.com/Seanperezz/WD-PEREZ-TOYCOMPANY.git |
